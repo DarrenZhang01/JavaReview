@@ -31,7 +31,7 @@ class Dog {
             myDogs[i].bark();
         }
     }
-    // Define the bark method under the main method.
+    // Define the bark method below the main method.
     public void bark () {
         System.out.println(name + " says Ruff!");
     }
